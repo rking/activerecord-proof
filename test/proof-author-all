@@ -1,0 +1,1 @@
+[1m[35mAuthor Load (SomeMilliseconds)[0m  SELECT "authors".* FROM "authors" LIMIT 1
